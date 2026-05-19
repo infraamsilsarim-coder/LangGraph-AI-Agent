@@ -22,7 +22,7 @@
 
 1. Clone the repository:
 ```
-git clone https://github.com/hulk-pham/LangGraph-AI-Agent.git
+git clone https://github.com/infraamsilsarim-coder/LangGraph-AI-Agent.git
 ```
 
 2. Create a new branch:

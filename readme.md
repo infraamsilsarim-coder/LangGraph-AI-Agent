@@ -6,7 +6,7 @@ A project for building conversational AI workflows using Langgraph.
 
 ```bash
 ## Clone the repository
-git clone https://github.com/hulk-pham/LangGraph-AI-Agent.git
+git clone https://github.com/infraamsilsarim-coder/LangGraph-AI-Agent.git
 cd ./LangGraph-AI-Agent
 
 # Create virtual environment
@@ -54,7 +54,3 @@ python3 src/ai_core/main.py
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
-
-## License
-
-[MIT](LICENSE)

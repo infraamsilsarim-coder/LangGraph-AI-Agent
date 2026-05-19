@@ -3,7 +3,7 @@ name = "ai-dev"
 version = "0.0.1"
 description = "AI Agent Development"
 authors = [
-    { name = "Hulk Pham", email = "tanhunghue@gmail.com" },
+    { name = "Amsil Sarim", email = "infra.amsilsarim@gmail.com" },
 ]
 readme = "README.md"
 license = { text = "MIT" }
